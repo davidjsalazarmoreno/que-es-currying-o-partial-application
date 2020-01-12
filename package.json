@@ -1,0 +1,17 @@
+{
+    "name": "que-es-currying-o-partial-application",
+    "version": "1.0.0",
+    "description": "Example for currying in JS",
+    "main": "src/index.js",
+    "repository": "git@github.com:davidjsalazarmoreno/que-es-currying-o-partial-application.git",
+    "author": "David Salazar <davidjsalazarmoreno@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+      "@babel/cli": "^7.5.5",
+      "@babel/core": "^7.6.4",
+      "@babel/node": "^7.6.3"
+    },
+    "devDependencies": {
+      "@babel/preset-env": "^7.6.3"
+    }
+  }
